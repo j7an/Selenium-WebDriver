@@ -1,3 +1,4 @@
+// A basic Selenium file to open a web page in Firefox
 package net.brav3.webdriver.A1;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
